@@ -6,7 +6,8 @@ Description:
   update the counter. Switches SW1 and SW2 determine
   whether the count increases or decreases and by how
   much. The current count is displayed on two
-  seven-segment displays.
+  seven-segment displays. The counter starts at 00
+  when the system is powered on or restarted.
 
   00 = Count up by 1
   01 = Count down by 1
